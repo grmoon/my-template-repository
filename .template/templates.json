@@ -4,7 +4,6 @@
    },
    "templates":[
       {
-         "path":"template1",
          "name":"My Template 1",
          "description":"The most amazing template you've ever seen.",
          "languages":[
